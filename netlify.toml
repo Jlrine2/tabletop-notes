@@ -19,7 +19,7 @@ SITE_TITLE = "D&D Notes"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "aetherveil-notes.jamesrine.com"
+SITE_URL = ""
 # (Optional) Site Timezone
 TIMEZONE = "US/New_York"
 ZOLA_VERSION = "0.15.2"
