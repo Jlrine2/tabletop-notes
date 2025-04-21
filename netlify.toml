@@ -1,27 +1,27 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/Yarden-zamir/obsidian-zola-plus.git __site && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
 publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to Read Notes"
+LANDING_BUTTON = "Click to see Simons Notes"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "These are notes for a D&D campaign."
+LANDING_DESCRIPTION = "Tabletop notes a D&D Campaign"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "D&D Notes"
+LANDING_TITLE = "⚔️Game Notes⚔️"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/Jlrine2/tabletop-notes/"
 # (Optional) Site title in navbar
-SITE_TITLE = "D&D Notes"
+SITE_TITLE = "Tabletop Notes"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = ""
+SITE_URL = "https://aetherveil-notes.jamesrine.com/"
 # (Optional) Site Timezone
-TIMEZONE = "US/New_York"
+TIMEZONE = ""
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
