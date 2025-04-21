@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Tabletop Notes</title>
+	<link href="https://aetherveil-notes.jamesrine.com/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://aetherveil-notes.jamesrine.com/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2025-04-21T19:49:14.142995+00:00</updated>
+	<id>https://aetherveil-notes.jamesrine.com/atom.xml</id>
+	<entry xml:lang="en">
+		<title>_Character_Template</title>
+		<published>2025-04-21T19:49:14.142995+00:00</published>
+		<updated>2025-04-21T19:49:14.142995+00:00</updated>
+		<link href="https://aetherveil-notes.jamesrine.com/docs/characters/character-template/" type="text/html"/>
+		<id>https://aetherveil-notes.jamesrine.com/docs/characters/character-template/</id>
+		<content type="html">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;relationships&quot;&gt;Relationships:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;foo&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;plotlines&quot;&gt;Plotlines&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;foo&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>_Faction_Template</title>
+		<published>2025-04-21T19:49:14.142995+00:00</published>
+		<updated>2025-04-21T19:49:14.142995+00:00</updated>
+		<link href="https://aetherveil-notes.jamesrine.com/docs/factions/faction-template/" type="text/html"/>
+		<id>https://aetherveil-notes.jamesrine.com/docs/factions/faction-template/</id>
+		<content type="html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;notable-members&quot;&gt;Notable Members&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;foo (backlink to character page)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;plotlines&quot;&gt;Plotlines&lt;&#x2F;h2&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Home</title>
+		<published>2025-04-21T19:49:14.142995+00:00</published>
+		<updated>2025-04-21T19:49:14.142995+00:00</updated>
+		<link href="https://aetherveil-notes.jamesrine.com/docs/home/" type="text/html"/>
+		<id>https://aetherveil-notes.jamesrine.com/docs/home/</id>
+		<content type="html">&lt;p&gt;This is the home of my D&amp;amp;D notes for a campaign.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>_Place_Template</title>
+		<published>2025-04-21T19:49:14.142995+00:00</published>
+		<updated>2025-04-21T19:49:14.142995+00:00</updated>
+		<link href="https://aetherveil-notes.jamesrine.com/docs/places/place-template/" type="text/html"/>
+		<id>https://aetherveil-notes.jamesrine.com/docs/places/place-template/</id>
+		<content type="html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;local-factions-and-characters&quot;&gt;Local Factions and Characters&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;foo (backlink)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;locations-of-interest&quot;&gt;Locations of Interest&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;plotlines&quot;&gt;Plotlines&lt;&#x2F;h2&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>_Session_Template</title>
+		<published>2025-04-21T19:49:14.142995+00:00</published>
+		<updated>2025-04-21T19:49:14.142995+00:00</updated>
+		<link href="https://aetherveil-notes.jamesrine.com/docs/session-template/" type="text/html"/>
+		<id>https://aetherveil-notes.jamesrine.com/docs/session-template/</id>
+		<content type="html">&lt;h2 id=&quot;exec-summary&quot;&gt;Exec Summary&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;milestones&quot;&gt;Milestones&lt;&#x2F;h2&gt;
+</content>
+	</entry>
+</feed>

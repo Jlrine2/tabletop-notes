@@ -1,0 +1,3 @@
+var graph_data={"nodes": [{"id": 0, "label": "_Character_Template", "url": "/docs/characters/character-template", "color": "#FFADAD", "value": 1.0, "opacity": 0.1}, {"id": 1, "label": "_Faction_Template", "url": "/docs/factions/faction-template", "color": "#FFD6A5", "value": 1.0, "opacity": 0.1}, {"id": 2, "label": "Home", "url": "/docs/home", "color": "#FDFFB6", "value": 1.0, "opacity": 0.1}, {"id": 3, "label": "_Place_Template", "url": "/docs/places/place-template", "color": "#CAFFBF", "value": 1.0, "opacity": 0.1}, {"id": 4, "label": "_Session_Template", "url": "/docs/session-template", "color": "#9BF6FF", "value": 1.0, "opacity": 0.1}], "edges": []}
+var graph_is_local=false
+var graph_link_replace=false
