@@ -11,10 +11,14 @@
             "id": "8d992d0619b8b28b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ]
@@ -177,6 +181,6 @@
     "netlify.toml~",
     "CNAME",
     "netlify.toml",
-    "Welcome.md"
+    "Home.md"
   ]
 }
