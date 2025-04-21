@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e4b600edfd4d4f64",
+        "id": "f886dbd56cfc1ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "65e1b0c80d7746ce",
+            "id": "8d992d0619b8b28b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".github/workflows/main.yml",
-                "bFile": ".github/workflows/main.yml",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: main.yml"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65e1b0c80d7746ce",
+  "active": "7a14d03f667e1aa8",
   "lastOpenFiles": [
+    "netlify.toml",
     "Welcome.md"
   ]
 }
