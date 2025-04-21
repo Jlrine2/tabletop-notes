@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "bb7a15e015a02d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/_Character_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Character_template"
+            }
+          },
+          {
+            "id": "d38ede50f1a0d74d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/_Faction_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Faction_template"
+            }
+          },
+          {
+            "id": "2fa50d8c4c2ba857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/_Place_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Place_template"
+            }
+          },
+          {
+            "id": "5237d2b769ceeb9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,11 +233,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a14d03f667e1aa8",
+  "active": "5237d2b769ceeb9b",
   "lastOpenFiles": [
+    "_Session_template.md",
+    "Places/_Place_template.md",
+    "Factions/_Faction_template.md",
+    "Characters/_Character_template.md",
+    "Home.md",
+    "Sessions",
+    "Factions",
+    "Places",
+    "Characters",
     "netlify.toml~",
     "CNAME",
-    "netlify.toml",
-    "Home.md"
+    "netlify.toml"
   ]
 }

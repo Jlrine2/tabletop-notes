@@ -1,5 +1,2 @@
-This is your new *vault*.
+This is the home of my D&D notes for a campaign.
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
